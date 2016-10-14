@@ -15,3 +15,9 @@ Sample training
 Average Convergence
 
 ![Alt text](/figs/DirectFeedbackAlignement_xor_1000.png?raw=true "Average Convergence")
+
+##Citations
+
+Direct Feedback Alignment is implemented as in,
+
+ Nøkland, Arild. "Direct Feedback Alignment Provides Learning in Deep Neural Networks." arXiv preprint arXiv:1609.01596 (2016).
