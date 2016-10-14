@@ -2,7 +2,7 @@
 
 Simple code to demonstrate Direct Feedback Alignment training of neural networks.
 
-Compares DFA to Backpropagation.
+Compares DFA to Backpropagation. DFA algorithm is implemented as described in this [paper](https://arxiv.org/abs/1609.01596).
 
 dfa.m will run and plot all results
 
