@@ -16,7 +16,7 @@ Average Convergence
 
 ![Alt text](/figs/DirectFeedbackAlignement_xor_1000.png?raw=true "Average Convergence")
 
-##Citations
+##References
 
 Direct Feedback Alignment is implemented as in,
 
